@@ -1,0 +1,27 @@
+{
+	EpicPen
+	{
+		screen marking tool
+	}
+}
+
+{
+	gsplits
+	{
+		gile spliting tool
+	}
+}
+
+{
+	Listary
+	{
+		Directory and file searching tool
+	}
+}
+
+{
+	setup-lightshot
+	{
+		screen shot tool
+	}
+}

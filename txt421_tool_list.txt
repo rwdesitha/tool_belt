@@ -25,3 +25,10 @@
 		screen shot tool
 	}
 }
+
+{
+	gpg4win
+	{
+		encription
+	}
+}
